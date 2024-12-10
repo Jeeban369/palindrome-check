@@ -1,6 +1,3 @@
-Here’s a detailed `README.md` for your **Palindrome Checker** project:
-
-```markdown
 # 🛠️ Palindrome Checker
 
 A simple and interactive Go program to check whether a given string is a **Palindrome**. A palindrome is a word, phrase, or sequence that reads the same backward as forward, ignoring spaces, punctuation, and case.
@@ -35,7 +32,6 @@ Another example:
 🗯️  Type some string: Hello
 
 it is not a palindrome. ❎
-```
 
 ## Installation and Execution
 ### Prerequisites
